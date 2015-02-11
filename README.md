@@ -1,6 +1,8 @@
 is.js
 =====
 ####This is a general-purpose check library.
+
+[![Join the chat at https://gitter.im/angal-salah/is.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angal-salah/is.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - No dependencies
 - AMD, Node & browser ready
 
